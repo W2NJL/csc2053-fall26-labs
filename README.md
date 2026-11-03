@@ -10,7 +10,7 @@ When you're done, use **File → Download → Download .ipynb** and upload the f
 
 | Lab | Topic | Open in Colab |
 |-----|-------|---------------|
-| 10 | Intro to Python — variables, lists, dicts, functions, requests | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w2njl/csc2053-fall26-labs/blob/main/lab10/lab10.ipynb) |
+| 11 | Intro to Python — variables, lists, dicts, functions, requests | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w2njl/csc2053-fall26-labs/blob/main/lab11/lab11.ipynb) |
 
 ## Homework
 
