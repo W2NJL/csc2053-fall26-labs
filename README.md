@@ -16,4 +16,4 @@ When you're done, use **File → Download → Download .ipynb** and upload the f
 
 | HW | Topic | Open in Colab |
 |----|-------|---------------|
-| 6 | Intro to Python — 16 questions (Villanova + Eagles themes) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w2njl/csc2053-fall26-labs/blob/main/hw6/hw6.ipynb) |
+| 6 | State Radio Deep Dive — 5 Python warm-ups + 25 Chairman Carr questions (Pandas, NumPy, Folium, Matplotlib, Seaborn) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/w2njl/csc2053-fall26-labs/blob/main/hw6/hw6.ipynb) |
