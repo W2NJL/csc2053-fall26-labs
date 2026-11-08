@@ -1,0 +1,246 @@
+callsign,market,market_rank,county,state,city,band,frequency,class,power_kw,dbuv_at_center,format,format_ri,format_nielsen,is_noncommercial,slogan,owner,parent_group,avg_share_6mo,latest_share,cume,m1,m2,m3,m4,m5,m6
+WEZE,Boston,,Middlesex MA,MA,BOSTON,AM,590.0,,5.0,103.5,Contemporary Christian,,Contemporary Christian,False,590 AM The Word,SALEM COMMUNICATIONS HOLDING CORPORATION,Salem,,,,,,,,,
+WRKO,Boston,10.0,Middlesex MA,MA,BOSTON,AM,680.0,,50.0,98.2,News,News/Talk,News/Talk,False,WRKO AM 680,"IHM LICENSES, LLC",iHeart,2.75,3.0,106000.0,2.7,3.0,2.7,2.6,2.5,3.0
+WJIB,Boston,,Middlesex MA,MA,CAMBRIDGE,AM,720.0,,5.0,104.6,Oldies,,Classic Hits,False,THE MEMORIES CHANNEL,"RCRQ, Inc.",,,,,,,,,,
+WEEI,Boston,,Norfolk MA,MA,BOSTON,AM,850.0,,50.0,98.9,Sports,,Sports,False,WEEI 850 AM,"Audacy License, LLC",Audacy,,,,,,,,,
+WAMG,Boston,,Middlesex MA,MA,DEDHAM,AM,890.0,,25.0,91.7,Tropical/Adult Contemporary,,,False,LA MEGA,GOIS BROADCASTING BOSTON LLC,,,,,,,,,,
+WROL,Boston,,Essex MA,MA,BOSTON,AM,950.0,,5.0,87.3,Religious Teaching,,,False,950AM & 100.3FM THE SPIRIT OF BOSTON,"SALEM MEDIA OF MASSACHUSETTS, LLC",Salem,,,,,,,,,
+WBZ,Boston,10.0,Plymouth MA,MA,BOSTON,AM,1030.0,,50.0,96.2,News,News/Talk,News/Talk,False,WBZ NewsRadio 1030,"IHM LICENSES, LLC",iHeart,3.43,3.2,252000.0,4.3,3.9,3.2,3.1,2.9,3.2
+WQOM,Boston,,Middlesex MA,MA,NATICK,AM,1060.0,,40.0,89.1,Religious,,,False,''1060 AM WQOM'',Holy Family Communications,,,,,,,,,,
+WILD,Boston,,Norfolk MA,MA,BOSTON,AM,1090.0,,2.6,83.2,Religious Teaching,,,False,LIFE CHANGING RADIO,"BLOUNT MASSCOM, INC.",,,,,,,,,,
+WWDJ,Boston,,Middlesex MA,MA,BOSTON,AM,1150.0,,5.0,92.7,Talk,,News/Talk,False,Relevant Radio,"RELEVANT RADIO, INC.",,,,,,,,,,
+WXKS,Boston,,Middlesex MA,MA,FRAMINGHAM,AM,1200.0,,10.0,87.3,Talk,,News/Talk,False,Talk 1200,"IHM LICENSES, LLC",iHeart,,,,,,,,,
+WBIX,Boston,,Norfolk MA,MA,BOSTON,AM,1260.0,,5.0,82.8,Contemporary Christian,,Contemporary Christian,False,1260 Nossa Rádio USA,"International Church of the Grace of God, Inc.",,,,,,,,,,
+WRCA,Boston,,Middlesex MA,MA,WALTHAM,AM,1330.0,,5.0,93.5,Classic Rock,,Classic Rock,False,ROCK 92-9,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,,,,,,,,,
+WKOX,Boston,,Middlesex MA,MA,EVERETT,AM,1430.0,,5.0,100.4,Contemporary Christian,,Contemporary Christian,True,,DELMARVA EDUCATIONAL ASSOCIATION,,,,,,,,,,
+WMEX,Boston,,Middlesex MA,MA,BOSTON,AM,1510.0,,50.0,92.6,Classic Hits,,Classic Hits,False,1510 WMEX THE GREATEST HITS,"L & J Media, LLC",,,,,,,,,,
+WNTN,Boston,,Middlesex MA,MA,CAMBRIDGE,AM,1550.0,,6.7,98.5,Ethnic,,,False,1550 WNTN Global Echoes,"DELTA COMMUNICATIONS, LLC",,,,,,,,,,
+WUNR,Boston,,Middlesex MA,MA,BROOKLINE,AM,1600.0,,5.0,99.2,Ethnic,,,False,WUNR 1600 AM,"CHAMPION BROADCASTING SYSTEMS, INC.",,,,,,,,,,
+WMBR,Boston,,Middlesex MA,MA,CAMBRIDGE,FM,88.1,A,0.64,114.27,Variety,,,True,,Technology Broadcasting Corporation,,,,,,,,,,
+WRPS,Boston,,Plymouth MA,MA,ROCKLAND,FM,88.3,A,0.105,82.69,Adult Alternative,,Alternative,True,ROCKLAND'S OWN ALTERNATIVE RADIO,Rockland Public Schools,,,,,,,,,,
+WERS,Boston,10.0,Suffolk MA,MA,BOSTON,FM,88.9,B1,4.0,124.3,Adult Alternative,Eclectic/AAA,Alternative,True,,Emerson College,,1.68,2.4,169100.0,1.3,1.2,1.4,1.9,1.9,2.4
+WGBH,Boston,10.0,Norfolk MA,MA,BOSTON,FM,89.7,B,100.0,98.26,News/Talk/Jazz,Public News/Talk,News/Talk,True,BOSTON'S LOCAL NPR,WGBH EDUCATIONAL FOUNDATION,,3.2,3.5,248000.0,3.1,3.2,3.0,3.2,3.2,3.5
+WZBC,Boston,,Middlesex MA,MA,NEWTON,FM,90.3,A,1.0,95.14,Rock,,Classic Rock,True,WZBC NEWTON,TRUSTEES OF BOSTON COLLEGE,,,,,,,,,,
+WBUR-FM,Boston,10.0,Middlesex MA,MA,BOSTON,FM,90.9,B,8.6,101.38,News,Public News/Talk,News/Talk,True,BOSTON'S NPR NEWS STATION,TRUSTEES OF BOSTON UNIVERSITY,,6.62,6.1,296700.0,6.2,5.9,6.8,7.9,6.8,6.1
+WDJM-FM,Boston,,Middlesex MA,MA,FRAMINGHAM,FM,91.3,A,0.1,81.36,Adult Alternative,,Alternative,True,,FRAMINGHAM STATE UNIVERSITY,,,,,,,,,,
+WMFO,Boston,,Middlesex MA,MA,MEDFORD,FM,91.5,A,0.125,98.6,Variety,,,True,,TUFTS UNIVERSITY,,,,,,,,,,
+WUMB-FM,Boston,,Norfolk MA,MA,BOSTON,FM,91.9,A,0.16,102.06,Variety,,,True,WUMB,UNIVERSITY OF MASSACHUSETTS,,,,,,,,,,
+WXRV,Boston,10.0,Essex MA,MA,ANDOVER,FM,92.5,B,25.0,69.87,Adult Alternative,AAA,Alternative,False,92.5 THE RIVER,BEANPOT LICENSE CORP.,,4.13,4.0,373800.0,4.3,4.8,3.9,4.2,3.6,4.0
+WBOS,Boston,10.0,Middlesex MA,MA,BROOKLINE,FM,92.9,B,13.0,103.59,Business,Business News,,False,BLOOMBERG RADIO,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,1.15,1.5,119600.0,1.1,0.8,0.8,1.1,1.6,1.5
+WEEI-FM,Boston,10.0,Essex MA,MA,LAWRENCE,FM,93.7,B,34.0,95.27,Sports,Sports,Sports,False,WEEI SPORTS RADIO NETWORK,"Audacy License, LLC",Audacy,4.0,4.0,317300.0,3.7,3.8,3.5,4.3,4.7,4.0
+WJMN,Boston,10.0,Middlesex MA,MA,BOSTON,FM,94.5,B,9.2,105.44,Rhythmic CHR,Rhythmic CHR,Rhythmic CHR,False,JAM'N 94.5,iHeartMedia,iHeart,2.6,2.2,289600.0,2.7,3.3,2.9,2.3,2.2,2.2
+WHRB,Boston,,Suffolk MA,MA,CAMBRIDGE,FM,95.3,A,1.45,122.2,Jazz/Classical,,,False,HARVARD RADIO,"HARVARD RADIO BROADCASTING CO., INC.",,,,,,,,,,
+WATD-FM,Boston,,Plymouth MA,MA,MARSHFIELD,FM,95.9,A,1.6,81.1,Variety,,,False,THE SOUTH SHORE'S RADIO STATION,"MARSHFIELD BROADCASTING CO., INC.",,,,,,,,,,
+WBQT,Boston,10.0,Middlesex MA,MA,BOSTON,FM,96.9,B,11.0,103.71,Urban Contemporary,Rhythmic AC,Hot AC,False,HOT 96.9,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,2.78,2.5,432500.0,2.7,2.9,3.2,2.7,2.7,2.5
+WZRM,Boston,10.0,Norfolk MA,MA,BROCKTON,FM,97.7,A,2.05,101.99,Spanish Hits,Spanish Contempo,Spanish Contemporary,False,RUMBA 97-7,iHeartMedia,iHeart,1.3,1.5,,1.6,1.6,1.1,1.2,0.8,1.5
+WBZ-FM,Boston,10.0,Middlesex MA,MA,BOSTON,FM,98.5,B,9.0,104.26,Sports,Sports,Sports,False,THE SPORTS HUB,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,4.43,5.4,517900.0,4.7,4.0,4.1,4.1,4.3,5.4
+WCRB,Boston,10.0,Essex MA,MA,LOWELL,FM,99.5,B,27.0,83.07,Classical,Classical,,True,CLASSICAL RADIO BOSTON,WGBH EDUCATIONAL FOUNDATION,,4.5,4.6,202700.0,4.1,4.3,4.3,4.5,5.2,4.6
+WBRS,Boston,,Middlesex MA,MA,WALTHAM,FM,100.1,D,0.025,89.62,Variety,,,True,WBRS SOMETHING FOR EVERYONE,Brandeis University,,,,,,,,,,
+WZLX,Boston,10.0,Suffolk MA,MA,BOSTON,FM,100.7,B,21.5,119.6,Classic Rock,Classic Rock,Classic Rock,False,100.7 WZLX CLASSIC ROCK,iHeartMedia,iHeart,5.27,4.8,519100.0,5.6,5.1,5.0,5.6,5.5,4.8
+WBWL,Boston,10.0,Middlesex MA,MA,LYNN,FM,101.7,B1,13.5,103.56,Country,Country,Country,False,101.7 THE BULL,iHeartMedia,iHeart,1.63,1.6,198700.0,1.6,1.5,1.7,1.6,1.8,1.6
+WKLB-FM,Boston,10.0,Middlesex MA,MA,WALTHAM,FM,102.5,B,14.0,102.14,Country,Country,Country,False,COUNTRY 102.5,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,3.18,3.2,322500.0,2.7,3.1,3.6,3.1,3.4,3.2
+WBGB,Boston,10.0,Middlesex MA,MA,BOSTON,FM,103.3,B,8.7,103.65,Adult Hits,Adult Hits,Adult Hits,False,BIG 103,"Audacy License, LLC",Audacy,4.07,5.2,521400.0,3.4,3.8,3.6,4.1,4.3,5.2
+WBMX,Boston,10.0,Suffolk MA,MA,BOSTON,FM,104.1,B,21.0,119.0,Hot AC,Hot AC,Hot AC,False,MIX 104.1,"Audacy License, LLC",Audacy,5.23,5.1,507500.0,5.3,5.6,5.6,5.0,4.8,5.1
+WNKC,Boston,,Essex MA,MA,GLOUCESTER,FM,104.9,A,6.0,82.18,Contemporary Christian,,Contemporary Christian,True,K-LOVE,"K-LOVE, INC.",EMF,,,,,,,,,
+WRBB,Boston,,Suffolk MA,MA,BOSTON,FM,104.9,D,0.019,101.56,Variety,,,True,WRBB 104.9,NORTHEASTERN UNIVERSITY,,,,,,,,,,
+WROR-FM,Boston,10.0,Middlesex MA,MA,FRAMINGHAM,FM,105.7,B,13.0,103.55,Classic Hits,Classic Hits,Classic Hits,False,80`S AND MORE,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,5.83,5.8,617700.0,6.2,6.0,5.8,5.5,5.7,5.8
+WMJX,Boston,10.0,Suffolk MA,MA,BOSTON,FM,106.7,B,21.5,119.57,Adult Contemporary,AC,Adult Contemporary,False,MAGIC 106.7,"Audacy License, LLC",Audacy,6.02,5.8,797100.0,6.1,6.6,6.5,6.0,5.1,5.8
+WKVB,Boston,,Middlesex MA,MA,WESTBOROUGH,FM,107.3,B1,2.1,89.71,Contemporary Christian,,Contemporary Christian,True,K-LOVE,"K-LOVE, INC.",EMF,,,,,,,,,
+WXKS-FM,Boston,10.0,Suffolk MA,MA,MEDFORD,FM,107.9,B,20.5,119.83,Contemporary Hit Radio,CHR,Contemporary Hit Radio,False,KISS 108,iHeartMedia,iHeart,6.05,6.5,676300.0,5.6,5.2,6.2,6.3,6.5,6.5
+WQAM,Miami,,Miami-Dade FL,FL,MIAMI,AM,560.0,,4.1,101.3,Sports,,Sports,False,104.3 WQAM,"Audacy License, LLC",Audacy,,,,,,,,,
+WIOD,Miami,12.0,Miami-Dade FL,FL,MIAMI,AM,610.0,,50.0,94.8,Talk,News/Talk,News/Talk,False,Newsradio 610 WIOD,"IHM LICENSES, LLC",iHeart,0.95,1.2,77700.0,1.0,0.9,0.8,0.8,1.0,1.2
+WWFE,Miami,,Miami-Dade FL,FL,MIAMI,AM,670.0,,50.0,97.3,Talk,,News/Talk,False,LA PODEROSA,"HISPANOS COMMUNICATIONS, LLC",,,,,,,,,,
+WAQI,Miami,,Miami-Dade FL,FL,MIAMI,AM,710.0,,20.0,98.9,Talk,,News/Talk,False,Radio Mambí,"Latino Media Network, LLC",,,,,,,,,,
+WAXY,Miami,,Miami-Dade FL,FL,SOUTH MIAMI,AM,790.0,,5.0,83.6,Talk,,News/Talk,False,''Radio Libre 790'',"Audacy License, LLC",Audacy,,,,,,,,,
+WACC,Miami,,Miami-Dade FL,FL,HIALEAH,AM,830.0,,1.0,92.8,Religious,,,True,LA EMISORA DEL CORDERO DE DIOS,"PAX CATHOLIC COMMUNICATIONS, INC.",,,,,,,,,,
+WXBN,Miami,,Miami-Dade FL,FL,SWEETWATER,AM,880.0,,4.0,86.9,News,,News/Talk,False,Miami's BIN 880,"IHM LICENSES, LLC",iHeart,,,,,,,,,
+WINZ,Miami,,Miami-Dade FL,FL,MIAMI,AM,940.0,,50.0,99.5,Sports,,Sports,False,''Fox Sports 940'',"iHM Licenses, LLC",iHeart,,,,,,,,,
+WMYM,Miami,,Miami-Dade FL,FL,MIAMI,AM,990.0,,5.0,91.1,Sports,,Sports,False,990AM ESPN RADIO,HISPANOS COMMUNICATIONS LLC,,,,,,,,,,
+WLVJ,Miami,,Miami-Dade FL,FL,KENDALL,AM,1020.0,,8.9,92.5,News/Talk,,News/Talk,False,ACTUALIDAD 1040,"ACTUALIDAD LICENSEE 1020AM, LLC",,,,,,,,,,
+WURN,Miami,12.0,Palm Beach FL,FL,BOYNTON BEACH,AM,1040.0,,25.0,85.9,Contemporary Hit Radio,Spanish News/Talk,Contemporary Hit Radio,False,ACTUALIDAD 1040,"ACTUALIDAD 1040AM LICENSEE, LLC",,3.18,3.0,154000.0,2.8,3.3,3.9,3.1,3.0,3.0
+WQOS,Miami,,Miami-Dade FL,FL,CORAL GABLES,AM,1080.0,,50.0,94.7,Religious Teaching,,,False,RELEVANT RADIO,"RELEVANT RADIO, INC.",,,,,,,,,,
+WQBA,Miami,,Miami-Dade FL,FL,MIAMI,AM,1140.0,,50.0,96.2,Adult Contemporary,,Adult Contemporary,False,WQBA 1140 AM El Pulso De Miami,"Latino Media Holdings II, LLC",,,,,,,,,,
+WAVS,Miami,,Broward FL,FL,DAVIE,AM,1170.0,,5.0,88.3,Ethnic,,,False,THE HEARTBEAT OF THE CARIBBEAN IN SOUTH FLORIDA,"ALLIANCE BROADCASTING, INC.",,,,,,,,,,
+WNMA,Miami,,Miami-Dade FL,FL,MIAMI SPRINGS,AM,1210.0,,50.0,95.1,Talk,,News/Talk,False,Radio Mundo 1210,"MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",,,,,,,,,,
+WSUA,Miami,,Miami-Dade FL,FL,MIAMI,AM,1260.0,,5.0,98.8,Talk,,News/Talk,False,CARACOL 1260,WSUA BROADCASTING CORPORATION,,,,,,,,,,
+WLQY,Miami,,Broward FL,FL,HOLLYWOOD,AM,1320.0,,5.0,91.3,,,,False,WLQY 1320 am,"ENTRAVISION HOLDINGS, LLC",Entravision,,,,,,,,,
+WQVN,Miami,,Miami-Dade FL,FL,NORTH MIAMI,AM,1360.0,,5.0,110.3,,,,False,,RADIO PIMENT BOUK,,,,,,,,,,
+WKAT,Miami,,Miami-Dade FL,FL,MIAMI,AM,1450.0,,1.0,93.6,Contemporary Christian,,Contemporary Christian,False,RADIO LUZ,"RADIO PIMENT BOUK, INC.",,,,,,,,,,
+WMBM,Miami,,Miami-Dade FL,FL,MIAMI BEACH,AM,1490.0,,1.0,86.7,Urban Gospel,,,False,,"WMBM MEDIA GROUP, INCORPORATED",,,,,,,,,,
+WJCC,Miami,,Miami-Dade FL,FL,MIAMI SPRINGS,AM,1700.0,,10.0,90.5,Ethnic,,,False,Radio Mega 1700 AM,"MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",,,,,,,,,,
+WAYF,Miami,12.0,Palm Beach FL,FL,WEST PALM BEACH,FM,88.1,C1,50.0,53.01,Contemporary Christian,Christian AC,Contemporary Christian,True,WAY FM,Hope Media Group,,0.83,1.1,88900.0,0.5,0.7,0.8,0.9,1.0,1.1
+WMFL,Miami,,Miami-Dade FL,FL,PALMETTO BAY,FM,88.5,A,1.0,80.42,Christian Rock,,,True,CALL FM,"Call Communications Group, Inc.",,,,,,,,,,
+WDNA,Miami,12.0,Miami-Dade FL,FL,MIAMI,FM,88.9,C2,7.4,71.46,Classical/Jazz,Jazz,,True,88.9 SERIOUS JAZZ,BASCOMB MEMORIAL BROADCASTING FOUNDATION,,0.5,0.4,50500.0,0.5,0.5,0.5,0.6,0.5,0.4
+WMLV,Miami,12.0,Miami-Dade FL,FL,MIAMI,FM,89.7,C,100.0,72.53,Contemporary Christian,Christian AC,Contemporary Christian,True,K-LOVE,"K-LOVE, INC.",EMF,3.35,2.4,184900.0,2.5,3.1,4.2,4.1,3.8,2.4
+WVUM,Miami,,Miami-Dade FL,FL,CORAL GABLES,FM,90.5,A,4.9,94.12,Adult Alternative,,Alternative,True,THE VOICE WVUM 90.5,"WVUM, Inc.",,,,,,,,,,
+WLRN-FM,Miami,12.0,Broward FL,FL,MIAMI,FM,91.3,C1,47.0,88.67,News/Talk/Jazz,Public News/Talk,News/Talk,True,NPR NEWS FOR SOUTH FLORIDA,"THE SCHOOL BOARD OF MIAMI-DADE COUNTY, FLORIDA",,3.42,2.7,189100.0,3.5,3.8,3.5,3.4,3.6,2.7
+WCMQ-FM,Miami,12.0,Miami-Dade FL,FL,HIALEAH,FM,92.3,C2,31.0,120.57,Classic Hits,Salsa/Tropical,Classic Hits,False,LA ZETA,"WCMQ LICENSING, INC.",,4.67,3.9,363200.0,5.3,5.5,4.6,4.6,4.1,3.9
+WFEZ,Miami,12.0,Miami-Dade FL,FL,MIAMI,FM,93.1,C0,100.0,87.93,Soft AC,Soft AC,Adult Contemporary,False,EASY 93.1,"Cox Radio, LLC",Cox,6.58,8.3,755900.0,5.5,5.9,5.9,6.6,7.3,8.3
+WZFL,Miami,12.0,Monroe FL,FL,ISLAMORADA,FM,93.5,C2,50.0,43.9,Dance,Dance,,False,REVOLUTION 93.5,"Zoo Communications, LLC",,1.52,1.4,186900.0,1.7,1.3,1.9,1.3,1.5,1.4
+WMIA-FM,Miami,12.0,Miami-Dade FL,FL,MIAMI BEACH,FM,93.9,C0,100.0,88.0,Adult Contemporary,Bilingual AC,Hot AC,False,MAGIC 93.9,iHeartMedia,iHeart,5.92,6.6,640100.0,6.2,6.1,5.1,5.2,6.3,6.6
+WZTU,Miami,12.0,Miami-Dade FL,FL,MIAMI BEACH,FM,94.9,C0,100.0,87.72,Contemporary Hit Radio,Spanish Contemporary,Spanish Contemporary,False,TÚ 94.9,iHeartMedia,iHeart,3.05,3.4,434000.0,2.7,3.2,2.7,3.2,3.1,3.4
+WRMA,Miami,12.0,Miami-Dade FL,FL,NORTH MIAMI BEACH,FM,95.7,C2,17.0,121.41,Urban AC,Spanish Hip Hop,Urban AC,False,RITMO 95.7 CUBATION Y MAS,"WXDJ LICENSING, INC.",,2.58,2.6,268800.0,2.9,2.5,2.5,2.5,2.5,2.6
+WPOW,Miami,12.0,Miami-Dade FL,FL,MIAMI,FM,96.5,C,100.0,88.08,Rhythmic CHR,Classic Rhythmic,Rhythmic CHR,False,POWER 96,"Audacy License, LLC",Audacy,2.52,2.3,438700.0,2.7,2.5,3.1,2.2,2.3,2.3
+WFLC,Miami,12.0,Miami-Dade FL,FL,MIAMI,FM,97.3,C,100.0,88.25,Contemporary Hit Radio,Rhythmic Hot AC,Contemporary Hit Radio,False,HITS 97.3,"Cox Radio, LLC",Cox,4.18,4.7,481800.0,3.9,3.9,4.0,3.6,5.0,4.7
+WRMF,Miami,12.0,Palm Beach FL,FL,PALM BEACH,FM,97.9,C,100.0,60.55,Hot AC,Hot AC,Hot AC,False,97.9 FM WRMF,Hubbard Media,Hubbard,1.05,1.0,182100.0,1.1,1.1,1.0,1.0,1.1,1.0
+WRTO-FM,Miami,12.0,Miami-Dade FL,FL,GOULDS,FM,98.3,C0,100.0,81.72,Tropical,Spanish Contemporary,Spanish Contemporary,False,MIX 98,"Univision Radio Stations Group, Inc.",Univision,2.08,2.2,296400.0,2.2,1.9,2.0,2.1,2.1,2.2
+WEDR,Miami,12.0,Miami-Dade FL,FL,MIAMI,FM,99.1,C1,93.0,89.04,Urban Contemporary,Hip Hop/R&B,Urban Contemporary,False,99 JAMZ WEDR,"Cox Radio, LLC",Cox,3.22,3.6,364300.0,3.4,3.2,3.6,2.6,2.9,3.6
+WKIS,Miami,12.0,Miami-Dade FL,FL,BOCA RATON,FM,99.9,C0,100.0,87.92,Country,Country,Country,False,99.9 KISS COUNTRY,"Audacy License, LLC",Audacy,3.02,3.0,309200.0,3.0,3.1,3.0,2.8,3.2,3.0
+WHYI-FM,Miami,12.0,Miami-Dade FL,FL,FORT LAUDERDALE,FM,100.7,C0,100.0,88.17,Contemporary Hit Radio,CHR,Contemporary Hit Radio,False,Y100.7,iHeartMedia,iHeart,2.67,2.7,414700.0,2.8,2.7,2.5,2.4,2.9,2.7
+WLYF,Miami,12.0,Miami-Dade FL,FL,MIAMI,FM,101.5,C1,100.0,89.59,Adult Contemporary,AC,Adult Contemporary,False,101.5 LITE FM REFRESHING,"Audacy License, LLC",Audacy,5.98,5.7,677700.0,6.1,5.8,6.0,6.5,5.8,5.7
+WMXJ,Miami,12.0,Miami-Dade FL,FL,POMPANO BEACH,FM,102.7,C0,100.0,88.56,Classic Hits,Classic Hits,Classic Hits,False,102.7 THE BEACH,"Audacy License, LLC",Audacy,5.15,4.3,542000.0,5.2,5.2,5.5,6.8,3.9,4.3
+WMIB,Miami,12.0,Miami-Dade FL,FL,FORT LAUDERDALE,FM,103.5,C,100.0,88.91,Urban Contemporary,Hip Hop/R&B,Urban Contemporary,False,103.5 THE BEAT,iHeartMedia,iHeart,2.15,2.3,295200.0,2.6,1.9,1.8,2.0,2.3,2.3
+WQAM-FM,Miami,12.0,Broward FL,FL,MIRAMAR,FM,104.3,C1,100.0,89.76,Sports,Sports,Sports,False,104.3 WQAM,"Audacy License, LLC",Audacy,1.1,1.5,128600.0,0.8,0.8,1.0,1.1,1.4,1.5
+WHQT,Miami,12.0,Miami-Dade FL,FL,CORAL GABLES,FM,105.1,C0,100.0,89.18,Urban AC,Adult R&B,Urban AC,False,HOT 105FM,"Cox Radio, LLC",Cox,5.48,5.3,424600.0,5.3,5.7,5.4,5.9,5.3,5.3
+WBGG-FM,Miami,12.0,Broward FL,FL,FORT LAUDERDALE,FM,105.9,C0,100.0,87.47,Classic Rock,Classic Rock,Classic Rock,False,BIG 105.9,iHeartMedia,iHeart,3.43,2.5,328400.0,4.2,4.0,3.9,3.3,2.7,2.5
+WXDJ,Miami,12.0,Broward FL,FL,FORT LAUDERDALE,FM,106.7,C1,100.0,88.92,Tropical,Spanish Tropical,Spanish Contemporary,False,EL ZOL,"WRMA LICENSING, INC.",,3.7,4.7,381200.0,3.6,3.4,3.3,3.6,3.6,4.7
+WAMR-FM,Miami,12.0,Miami-Dade FL,FL,MIAMI,FM,107.5,C1,95.0,89.86,Spanish Hits,Spanish Contemporary,Spanish Contemporary,False,AMOR 107.5,"Univision Radio Stations Group, Inc.",Univision,5.95,7.0,483900.0,5.5,5.3,5.0,6.2,6.7,7.0
+WMCA,New York,,Hudson NJ,NY,NEW YORK,AM,570.0,,5.0,100.2,Religious Teaching,,,False,AM 570 THE MISSION WMCA,"SALEM MEDIA OF MASSACHUSETTS, LLC",Salem,,,,,,,,,
+WFAN,New York,,Bronx NY,NY,NEW YORK,AM,660.0,,50.0,96.6,Sports,,Sports,False,Sports Radio 66 AM and 101.9 FM,"Audacy License, LLC",Audacy,,,,,,,,,
+WOR,New York,1.0,Hudson NJ,NY,NEW YORK,AM,710.0,,50.0,104.5,News,News/Talk,News/Talk,False,710 WOR,"IHM LICENSES, LLC",iHeart,1.43,1.4,306500.0,1.5,1.4,1.5,1.3,1.5,1.4
+WABC,New York,1.0,Bergen NJ,NY,NEW YORK,AM,770.0,,50.0,99.0,News/Talk,Conservative Talk,News/Talk,False,NEWS TALK RADIO 77 WABC,"RED APPLE MEDIA, INC.",Red Apple,3.63,3.4,367100.0,3.6,3.5,4.1,4.1,3.1,3.4
+WNYC,New York,,Hudson NJ,NY,NEW YORK,AM,820.0,,10.0,101.1,News,,News/Talk,True,WNYC AM 820,New York Public Radio,,,,,,,,,,
+WHSQ,New York,1.0,Bronx NY,NY,NEW YORK,AM,880.0,,50.0,94.9,Sports,Sports,Sports,False,ESPN New York 880 AM/Mets Radio 880 AM (alternate),"Audacy License, LLC",Audacy,0.6,0.8,357900.0,,,0.1,0.7,0.8,0.8
+WNYM,New York,,Bergen NJ,NJ,HACKENSACK,AM,970.0,,50.0,97.1,Talk,,News/Talk,False,"''AM 970, The Answer''","SALEM MEDIA OF NEW YORK, LLC",Salem,,,,,,,,,
+WINS,New York,,Bergen NJ,NY,NEW YORK,AM,1010.0,,50.0,101.6,News,,News/Talk,False,1010 WINS,"Audacy License, LLC",Audacy,,,,,,,,,
+WEPN,New York,,Bergen NJ,NY,NEW YORK,AM,1050.0,,50.0,104.0,Sports,,Sports,False,1050 AM ESPN,"Good Karma Broadcasting, L.L.C.",,,,,,,,,,
+WBBR,New York,1.0,Bergen NJ,NY,NEW YORK,AM,1130.0,,50.0,103.2,News,Business News,News/Talk,False,Bloomberg 11-3-0,Bloomberg Communications Inc.,,0.53,0.4,102600.0,0.6,0.6,0.9,0.3,0.4,0.4
+WLIB,New York,,Bergen NJ,NY,NEW YORK,AM,1190.0,,10.0,98.5,Contemporary Hit Radio,,Contemporary Hit Radio,False,La Exitosa 98.7 y 1190 AM,WBLS-WLIB LICENSE LLC,,,,,,,,,,
+WADO,New York,,Bergen NJ,NY,NEW YORK,AM,1280.0,,5.0,102.4,Regional Mexican,,Mexican Regional,False,,"Univision Radio Stations Group, Inc.",Univision,,,,,,,,,
+WWRV,New York,,Bergen NJ,NY,NEW YORK,AM,1330.0,,5.0,90.9,Contemporary Christian,,Contemporary Christian,False,RADIO CANTICO NUEVO,RADIO VISION CRISTIANA MANAGEMENT CORP.,,,,,,,,,,
+WKDM,New York,,Bergen NJ,NY,NEW YORK,AM,1380.0,,5.0,96.4,Contemporary Hit Radio,,Contemporary Hit Radio,False,AM1380,"MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",,,,,,,,,,
+WZRC,New York,,Bergen NJ,NY,NEW YORK,AM,1480.0,,5.0,93.9,News,,News/Talk,False,AM1480,"MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",,,,,,,,,,
+WFME,New York,,Queens NY,NY,NEW YORK,AM,1560.0,,50.0,99.2,Religious Teaching,,,False,FAMILY RADIO,"LOAM MEDIA, INC.",,,,,,,,,,
+WWRL,New York,,Hudson NJ,NY,NEW YORK,AM,1600.0,,25.0,103.8,News,,News/Talk,False,New York's BIN 1600,"IHM LICENSES, LLC",iHeart,,,,,,,,,
+WWRU,New York,,Bergen NJ,NJ,JERSEY CITY,AM,1660.0,,10.0,96.6,Talk,,News/Talk,False,AM 1660 K-Radio,"MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",,,,,,,,,,
+WBGO,New York,1.0,New York NY,NJ,NEWARK,FM,88.3,B1,2.5,131.24,Jazz,Jazz,,True,JAZZ 88,"Newark Public Radio, Inc.",,0.48,0.5,244600.0,0.5,0.4,0.5,0.5,0.5,0.5
+WFDU,New York,1.0,Bergen NJ,NJ,TEANECK,FM,89.1,B1,3.0,97.93,Oldies,Variety,Classic Hits,True,,Fairleigh Dickinson University,,0.28,0.3,,0.3,0.3,0.2,0.3,0.3,0.3
+WNYU-FM,New York,,New York NY,NY,NEW YORK,FM,89.1,B1,8.3,96.04,Variety,,,True,,NEW YORK UNIVERSITY.,,,,,,,,,,
+WSOU,New York,,Essex NJ,NJ,SOUTH ORANGE,FM,89.5,A,2.4,89.8,Rock,,Classic Rock,True,WSOU 89.5 SETON HALL'S PIRATE RADIO,SETON HALL UNIVERSITY,,,,,,,,,,
+WKCR-FM,New York,,New York NY,NY,NEW YORK,FM,89.9,B1,1.35,132.36,Variety,,,True,,TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK,,,,,,,,,,
+WHCR-FM,New York,,New York NY,NY,NEW YORK,FM,90.3,D,0.008,88.22,Variety,,,True,THE VOICE OF HARLEM,City College of New York,,,,,,,,,,
+WFUV,New York,1.0,Bronx NY,NY,NEW YORK,FM,90.7,B,47.0,96.12,Adult Alternative/Folk,AAA,Alternative,True,NY'S MUSIC DISCOVERY,FORDHAM UNIVERSITY,,0.77,0.6,278900.0,0.9,0.8,0.8,0.8,0.7,0.6
+WFMU,New York,,Essex NJ,NJ,EAST ORANGE,FM,91.1,A,1.25,97.61,Variety,,,True,,AURICLE COMMUNICATIONS,,,,,,,,,,
+WNYE,New York,,New York NY,NY,NEW YORK,FM,91.5,B1,2.0,132.47,Adult Alternative,,Alternative,True,RADIO NEW YORK,NEW YORK CITY DEPT. OF INFO TECHNOLOGY & TELECOMMUNICATIONS,,,,,,,,,,
+WINS-FM,New York,1.0,New York NY,NY,NEW YORK,FM,92.3,B,6.0,128.36,News,News,News/Talk,False,,"Audacy License, LLC",Audacy,7.2,7.7,1690500.0,6.9,7.1,7.4,7.3,6.8,7.7
+WFME-FM,New York,,Queens NY,NY,GARDEN CITY,FM,92.7,A,2.0,95.83,Religious Teaching,,,False,FAMILY RADIO,"LOAM MEDIA, INC.",,,,,,,,,,
+WPAT-FM,New York,1.0,New York NY,NJ,PATERSON,FM,93.1,B,4.0,127.79,Romantica,Spanish Contemporary,Spanish Contemporary,False,AMOR 93.1,"WPAT LICENSING, INC.",,2.52,2.0,757300.0,2.4,3.2,3.0,2.4,2.1,2.0
+WNVU,New York,,Bronx NY,NY,NEW ROCHELLE,FM,93.5,A,1.75,92.46,Spanish Religious,,,False,VIDA UNIDA,Hope Media Group,,,,,,,,,,
+WNYC-FM,New York,1.0,New York NY,NY,NEW YORK,FM,93.9,B,5.2,128.61,News/Talk,Public News/Talk,News/Talk,True,,New York Public Radio,,4.0,4.0,632500.0,4.1,4.2,4.2,3.8,3.7,4.0
+WXBK,New York,1.0,Hudson NJ,NJ,NEWARK,FM,94.7,B,40.0,104.66,Classic Hip-Hop,Classic Hip Hop,Urban Contemporary,False,94.7 THE BLOCK,"Audacy License, LLC",Audacy,1.7,1.5,883800.0,1.7,1.7,1.6,1.9,1.8,1.5
+WPLJ,New York,1.0,New York NY,NY,NEW YORK,FM,95.5,B,6.7,128.5,Contemporary Christian,Christian AC,Contemporary Christian,True,K-LOVE,"K-LOVE, INC.",EMF,1.57,1.1,399700.0,1.8,1.9,1.7,1.5,1.4,1.1
+WXNY-FM,New York,1.0,New York NY,NY,NEW YORK,FM,96.3,B,6.0,127.96,Tropical,Spanish Contemporary,Spanish Contemporary,False,LA X 96.3,"Univision Radio Stations Group, Inc.",Univision,1.67,1.7,835000.0,2.0,1.5,1.4,1.6,1.8,1.7
+WARW,New York,1.0,Westchester NY,NY,PORT CHESTER,FM,96.7,A,3.1,93.42,Contemporary Christian,Worship,Contemporary Christian,True,AIR1,"K-LOVE, INC.",EMF,0.32,0.3,113200.0,0.3,0.4,0.3,0.3,0.3,0.3
+WQHT,New York,1.0,New York NY,NY,NEW YORK,FM,97.1,B,6.7,127.94,Rhythmic CHR,Rhythmic CHR,Rhythmic CHR,False,HOT 97,Mediaco WQHT License LLC,,2.57,2.1,1058100.0,2.6,2.7,2.7,3.0,2.3,2.1
+WSKQ-FM,New York,1.0,New York NY,NY,NEW YORK,FM,97.9,B,6.0,117.07,Tropical,Spanish Tropical,Spanish Contemporary,False,MEGA 97.9,"WSKQ LICENSING, INC.",,4.0,5.3,1729500.0,4.2,4.0,3.5,3.2,3.8,5.3
+WKJY,New York,,Nassau NY,NY,HEMPSTEAD,FM,98.3,A,2.6,83.27,Adult Contemporary,,Adult Contemporary,False,98.3 K-JOY,"CONNOISSEUR MEDIA LICENSES, LLC",Connoisseur,,,,,,,,,
+WMGQ,New York,1.0,Somerset NJ,NJ,NEW BRUNSWICK,FM,98.3,A,1.2,73.05,Adult Contemporary,AC,Adult Contemporary,False,MAGIC 98.3,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,0.47,0.5,241900.0,0.5,0.4,0.5,0.4,0.5,0.5
+WEPN-FM,New York,1.0,New York NY,NY,NEW YORK,FM,98.7,B,6.0,128.07,Adult Contemporary,Bilingual AC,Hot AC,False,LA EXITOSA 98.7,Emmis New York Radio License LLC,,1.55,1.5,768300.0,1.5,1.4,1.6,1.7,1.6,1.5
+WAWZ,New York,1.0,Somerset NJ,NJ,ZAREPHATH,FM,99.1,B,28.0,75.24,Contemporary Christian,Christian AC,Contemporary Christian,True,STAR 99-1,"Pillar Ministries, Inc.",,0.52,0.4,138200.0,0.5,0.5,0.6,0.6,0.5,0.4
+WBAI,New York,,New York NY,NY,NEW YORK,FM,99.5,B,10.0,132.43,Variety,,,True,PACIFICA RADIO 99.5,"Pacifica Foundation, Inc.",,,,,,,,,,
+WHTZ,New York,1.0,New York NY,NJ,NEWARK,FM,100.3,B,6.0,127.8,Contemporary Hit Radio,CHR,Contemporary Hit Radio,False,Z-100,iHeartMedia,iHeart,5.43,5.2,2314400.0,5.6,5.6,5.2,5.6,5.4,5.2
+WHUD,New York,1.0,Putnam NY,NY,PEEKSKILL,FM,100.7,B,50.0,59.27,Adult Contemporary,AC,Adult Contemporary,False,HUDSON VALLEY'S MUSIC STATION,"6 JOHNSON ROAD LICENSES, INC.",,0.48,0.6,323700.0,0.5,0.6,0.4,0.5,0.3,0.6
+WCBS-FM,New York,1.0,New York NY,NY,NEW YORK,FM,101.1,B,6.7,128.01,Classic Hits,Classic Hits,Classic Hits,False,NEW YORK'S GREATEST HITS 101.1,"Audacy License, LLC",Audacy,5.7,5.7,2603900.0,5.8,5.8,5.7,5.4,5.8,5.7
+WFAN-FM,New York,1.0,New York NY,NY,NEW YORK,FM,101.9,B,6.0,128.01,Sports,Sports,Sports,False,THE FAN,"Audacy License, LLC",Audacy,4.0,4.7,1036400.0,3.6,4.0,3.5,3.9,4.3,4.7
+WNEW-FM,New York,1.0,New York NY,NY,NEW YORK,FM,102.7,B,6.0,127.83,Adult Contemporary,Hot AC,Hot AC,False,NEW 102.7,"Audacy License, LLC",Audacy,4.35,4.2,2072200.0,4.7,4.1,4.1,4.5,4.5,4.2
+WKTU,New York,1.0,New York NY,NY,LAKE SUCCESS,FM,103.5,B,6.0,128.06,Hot AC,Hot AC,Hot AC,False,,iHeartMedia,iHeart,3.82,3.7,2206700.0,3.5,3.9,4.0,3.8,4.0,3.7
+WVBN,New York,,Bronx NY,NY,BRONXVILLE,FM,103.9,A,0.98,97.3,Religious Teaching,,,False,VCY AMERICA,"VCY America, Inc.",,,,,,,,,,
+WAXQ,New York,1.0,New York NY,NY,NEW YORK,FM,104.3,B,6.0,128.28,Classic Rock,Classic Rock,Classic Rock,False,Q104.3,iHeartMedia,iHeart,4.98,5.2,1885300.0,4.9,4.9,4.8,4.8,5.3,5.2
+WWPR-FM,New York,1.0,New York NY,NY,NEW YORK,FM,105.1,B,6.0,127.73,Urban Contemporary,Hip Hop/R&B,Urban Contemporary,False,POWER 105.1,iHeartMedia,iHeart,2.93,2.9,1186900.0,3.4,2.9,2.6,2.7,3.1,2.9
+WDHA-FM,New York,1.0,Morris NJ,NJ,DOVER,FM,105.5,A,1.0,78.12,Rock,Rock,Classic Rock,False,JERSEY'S OWN ROCK RADIO,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,0.42,0.4,184400.0,0.4,0.4,0.5,0.4,0.4,0.4
+WQXR-FM,New York,1.0,New York NY,NJ,NEWARK,FM,105.9,B1,0.61,127.63,Classical,Classical,,True,,New York Public Radio,,2.4,1.8,384300.0,2.1,3.3,2.9,1.8,2.5,1.8
+WLTW,New York,1.0,New York NY,NY,NEW YORK,FM,106.7,B,6.0,127.6,Adult Contemporary,AC,Adult Contemporary,False,106.7 LITE FM,iHeartMedia,iHeart,7.42,7.2,3620400.0,7.9,7.5,7.9,7.3,6.7,7.2
+WXPK,New York,,Westchester NY,NY,BRIARCLIFF MANOR,FM,107.1,A,1.9,84.07,Adult Alternative,,Alternative,False,THE PEAK 107.1,"6 JOHNSON ROAD LICENSES, INC.",,,,,,,,,,
+WBLS,New York,1.0,New York NY,NY,NEW YORK,FM,107.5,B,4.2,127.66,Rhythm And Blues,Adult R&B,Urban AC,False,107.5 WBLS,Mediaco WBLS License LLC,,4.45,4.9,1406300.0,4.2,3.7,4.5,4.4,5.0,4.9
+WFIL,Philadelphia,,Montgomery PA,PA,PHILADELPHIA,AM,560.0,,5.0,90.4,Contemporary Christian,,Contemporary Christian,False,''AM 560 WFIL'',SALEM COMMUNICATIONS HOLDING CORPORATION,Salem,,,,,,,,,
+WTEL,Philadelphia,,Camden NJ,PA,PHILADELPHIA,AM,610.0,,5.0,95.6,News,,News/Talk,False,Philadelphia's BIN 610,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,,,,,,,,,
+WWJZ,Philadelphia,,Burlington NJ,NJ,MOUNT HOLLY,AM,640.0,,50.0,84.3,,,,False,Relevant Radio,"RELEVANT RADIO, INC.",,,,,,,,,,
+WTMR,Philadelphia,,Camden NJ,NJ,CAMDEN,AM,800.0,,5.0,94.9,Religious,,,False,WTMR AM Radio 800,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,,,,,,,,,
+WWDB,Philadelphia,,Montgomery PA,PA,PHILADELPHIA,AM,860.0,,10.0,83.5,Talk,,News/Talk,False,Talk 860,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,,,,,,,,,
+WURD,Philadelphia,,Philadelphia PA,PA,PHILADELPHIA,AM,900.0,,1.06,91.5,Talk,,News/Talk,False,WURD 96.1 FM - 900 AM,"WURD RADIO, LLC",,,,,,,,,,
+WKDN,Philadelphia,,Philadelphia PA,PA,PHILADELPHIA,AM,950.0,,43.0,94.9,Religious Teaching,,,False,FAMILY RADIO,"LOAM MEDIA, INC.",,,,,,,,,,
+WNTP,Philadelphia,,Montgomery PA,PA,PHILADELPHIA,AM,990.0,,50.0,88.9,Talk,,News/Talk,False,AM 990 The Answer,SALEM COMMUNICATIONS HOLDING CORPORATION,Salem,,,,,,,,,
+KYW,Philadelphia,9.0,Montgomery PA,PA,PHILADELPHIA,AM,1060.0,,50.0,88.7,News,News,News/Talk,False,KYW Newsradio,"Audacy License, LLC",Audacy,5.38,5.4,555500.0,5.7,5.2,5.3,5.6,5.1,5.4
+WPHT,Philadelphia,,Burlington NJ,PA,PHILADELPHIA,AM,1210.0,,50.0,89.6,Talk,,News/Talk,False,Talk Radio 1210 WPHT,"Audacy License, LLC",Audacy,,,,,,,,,
+WEMG,Philadelphia,,Philadelphia PA,NJ,CAMDEN,AM,1310.0,,1.0,92.1,Tropical/Adult Contemporary,,,False,MEGA 1310 AM,"MINORITY RADIO BROADCASTING, LLC",,,,,,,,,,
+WHAT,Philadelphia,,Philadelphia PA,PA,PHILADELPHIA,AM,1340.0,,1.0,87.8,Tropical/Adult Contemporary,,,False,LA KALLE 99.9,"Philly Radio, Inc.",,,,,,,,,,
+WDAS,Philadelphia,,Philadelphia PA,PA,PHILADELPHIA,AM,1480.0,,5.0,90.7,News,,News/Talk,False,BIN,"AMFM RADIO LICENSES, L.L.C.",iHeart,,,,,,,,,
+WPEB,Philadelphia,,Philadelphia PA,PA,PHILADELPHIA,FM,88.1,D,0.01,82.81,Variety,,,True,,"SCRIBE VIDEO CENTER, INC.",,,,,,,,,,
+WXPN,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,88.5,B,2.65,100.76,Adult Alternative,AAA,Alternative,True,XPN 88.5,THE TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA,,2.87,2.8,246600.0,2.6,3.0,3.2,2.5,3.1,2.8
+WYPA,Philadelphia,,Camden NJ,NJ,CHERRY HILL,FM,89.5,A,1.9,91.91,Contemporary Christian,,Contemporary Christian,True,AIR1,"K-LOVE, INC.",EMF,,,,,,,,,
+WGLS-FM,Philadelphia,,Gloucester NJ,NJ,GLASSBORO,FM,89.7,A,0.75,88.77,Variety,,,True,THE MUSIC THAT MATTERS,ROWAN UNIVERSITY,,,,,,,,,,
+WRTI,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,90.1,B,7.7,103.73,Classical/Jazz,Classical,,True,TEMPLE UNIVERSITY PUBLIC RADIO,TEMPLE UNIVERSITY OF THE COMMONWEALTH SYSTEM OF HIGHER ED,,1.2,1.5,136800.0,1.3,1.3,1.2,0.8,1.1,1.5
+WHYY-FM,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,90.9,B,13.5,101.75,News/Talk,Public News/Talk,News/Talk,True,WHYY,"WHYY, Inc.",,3.73,3.2,292400.0,4.4,4.1,4.1,3.6,3.0,3.2
+WDBK,Philadelphia,,Camden NJ,NJ,BLACKWOOD,FM,91.5,A,0.1,90.36,Adult Alternative,,Alternative,True,COMMUNITY ALTERNATIVE,CAMDEN COUNTY COLLEGE,,,,,,,,,,
+WSRN-FM,Philadelphia,,Delaware PA,PA,SWARTHMORE,FM,91.5,A,0.11,80.31,Variety,,,True,,SWARTHMORE COLLEGE,,,,,,,,,,
+WKDU,Philadelphia,,Philadelphia PA,PA,PHILADELPHIA,FM,91.7,A,0.8,117.39,Adult Alternative,,Alternative,True,,DREXEL UNIVERSITY,,,,,,,,,,
+WXTU,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,92.5,B,15.0,102.28,Country,Country,Country,False,PHILLY'S COUNTRY STATION,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,4.65,4.1,446000.0,4.6,4.7,4.4,5.4,4.7,4.1
+WMMR,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,93.3,B,16.5,134.9,Rock,Rock,Classic Rock,False,EVERYTHING THAT ROCKS,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,7.33,8.2,607600.0,6.6,7.1,6.4,5.5,10.2,8.2
+WIP-FM,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,94.1,B,9.6,103.65,Sports,Sports,Sports,False,SPORTS RADIO 94WIP,"Audacy License, LLC",Audacy,7.8,10.3,959600.0,8.0,7.1,6.4,7.4,7.6,10.3
+WPST,Philadelphia,9.0,Bucks PA,NJ,TRENTON,FM,94.5,B,50.0,80.39,Contemporary Hit Radio,CHR,Contemporary Hit Radio,False,94.5 PST NUMBER 1 FOR VARIETY,"Townsquare License, LLC",Townsquare,0.98,1.1,,0.9,1.0,1.0,1.0,0.9,1.1
+WBEN-FM,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,95.7,B,8.9,103.55,Adult Hits,Adult Hits,Adult Hits,False,95.7 BEN FM,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,3.85,3.8,697300.0,3.7,4.1,3.4,4.2,3.9,3.8
+WCUS,Philadelphia,,Philadelphia PA,PA,PHILADELPHIA,FM,96.5,B,9.6,103.51,Country,,Country,False,US 96.5,"Audacy License, LLC",Audacy,,,,,,,,,
+WPEN,Philadelphia,9.0,Philadelphia PA,NJ,BURLINGTON,FM,97.5,B,26.0,97.59,Sports,Sports,Sports,False,97.5 THE FANATIC,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,1.22,1.4,242400.0,1.5,0.9,1.1,1.2,1.2,1.4
+WOGL,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,98.1,B,9.6,103.31,Classic Hits,Classic Hits,Classic Hits,False,BIG 98.1,"Audacy License, LLC",Audacy,4.0,4.1,754400.0,3.8,3.6,4.2,4.2,4.1,4.1
+WUSL,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,98.9,B,27.0,101.06,Urban Contemporary,Hip Hop/R&B,Urban Contemporary,False,POWER 99,iHeartMedia,iHeart,3.75,3.5,400600.0,3.2,3.8,3.7,4.4,3.9,3.5
+WHHS,Philadelphia,,Delaware PA,PA,HAVERTOWN,FM,99.9,D,0.0095,81.01,Adult Alternative,,Alternative,True,,SCHOOL DISTRICT OF HAVERFORD TOWNSHIP,,,,,,,,,,
+WRNB,Philadelphia,9.0,Philadelphia PA,PA,MEDIA,FM,100.3,B,12.5,102.65,Rhythm And Blues,Adult R&B,Urban AC,False,100.3 RNB,"Radio One Licenses, LLC",Urban One,3.72,3.7,374900.0,3.2,3.4,3.3,4.4,4.3,3.7
+WBEB,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,101.1,B,14.0,103.57,Adult Contemporary,AC,Adult Contemporary,False,B101,"Audacy License, LLC",Audacy,6.57,7.9,1110100.0,6.2,6.6,7.7,5.5,5.5,7.9
+WKXW,Philadelphia,9.0,Mercer NJ,NJ,TRENTON,FM,101.5,B,15.5,76.78,Talk,Talk/Classic Hits,News/Talk,False,NEW JERSEY 101.5,"Townsquare License, LLC",Townsquare,1.23,1.2,106200.0,0.9,1.2,1.3,1.4,1.4,1.2
+WIOQ,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,102.1,B,27.0,101.57,Contemporary Hit Radio,CHR,Contemporary Hit Radio,False,Q-102,iHeartMedia,iHeart,2.43,2.5,491100.0,2.6,2.7,2.5,2.0,2.3,2.5
+WMGK,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,102.9,B,8.9,104.36,Classic Rock,Classic Rock,Classic Rock,False,PHILADELPHIA'S CLASSIC ROCK MGK,"BEASLEY MEDIA GROUP LICENSES, LLC",Beasley,6.88,6.9,751500.0,6.0,6.3,7.4,7.8,6.9,6.9
+WPHI-FM,Philadelphia,,Philadelphia PA,PA,JENKINTOWN,FM,103.9,A,0.27,102.94,News,,News/Talk,False,KYW NEWSRADIO 103.9 FM,"Audacy License, LLC",Audacy,,,,,,,,,
+WRFF,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,104.5,B,11.5,102.62,Rock,Alternative,Alternative,False,ALT 104.5,iHeartMedia,iHeart,2.7,2.8,422000.0,2.7,2.8,2.5,2.6,2.8,2.8
+WDAS-FM,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,105.3,B,16.5,103.67,Urban AC,Adult R&B,Urban AC,False,,iHeartMedia,iHeart,7.12,7.1,593300.0,6.7,6.6,7.1,7.8,7.4,7.1
+WUMR,Philadelphia,9.0,Philadelphia PA,PA,PHILADELPHIA,FM,106.1,B,22.5,100.39,Spanish Hits,Spanish CHR,Spanish Contemporary,False,RUMBA 106.1,iHeartMedia,iHeart,1.23,1.3,263000.0,1.3,1.4,1.1,1.1,1.2,1.3
+WKVP,Philadelphia,9.0,Camden NJ,NJ,CAMDEN,FM,106.9,B,38.0,109.28,Contemporary Christian,Christian AC,Contemporary Christian,True,K-LOVE,"K-LOVE, INC.",EMF,3.27,2.6,206300.0,3.2,4.1,3.8,3.0,2.9,2.6
+WPPZ-FM,Philadelphia,9.0,Philadelphia PA,NJ,PENNSAUKEN,FM,107.9,A,0.78,129.78,R&B Oldies,R&B Oldies,Urban AC,False,CLASSIX 107.9,"RADIO ONE LICENSES, LLC",Urban One,2.93,2.1,285100.0,3.2,3.0,2.8,3.4,3.1,2.1
+KEAR,San Francisco,,Alameda CA,CA,SAN FRANCISCO,AM,610.0,,5.0,99.2,Religious Teaching,,,False,FAMILY RADIO,"LOAM MEDIA, INC.",,,,,,,,,,
+KNBR,San Francisco,,San Mateo CA,CA,SAN FRANCISCO,AM,680.0,,50.0,98.7,Sports,,Sports,False,KNBR 680 104.5 THE SPORTS LEADER,Radio License Holding SRC LLC,Cumulus,,,,,,,,,
+KCBS,San Francisco,6.0,Marin CA,CA,SAN FRANCISCO,AM,740.0,,50.0,94.4,News,News,News/Talk,False,KCBS 740 AM,"Audacy License, LLC",Audacy,8.52,8.1,592400.0,8.8,8.5,8.9,8.1,8.7,8.1
+KSFO,San Francisco,,Alameda CA,CA,SAN FRANCISCO,AM,810.0,,50.0,94.6,Talk,,News/Talk,False,810 KSFO,RADIO LICENSE HOLDINGS LLC,Cumulus,,,,,,,,,
+KTRB,San Francisco,,Alameda CA,CA,SAN FRANCISCO,AM,860.0,,50.0,97.0,Talk,,News/Talk,False,860 AM The Answer,"NEW INSPIRATION BROADCASTING COMPANY, INC.",,,,,,,,,,
+KKSF,San Francisco,,Contra Costa CA,CA,OAKLAND,AM,910.0,,5.0,102.3,News,,News/Talk,False,The Bay Area’s BIN 910,"IHM LICENSES, LLC",iHeart,,,,,,,,,
+KNEW,San Francisco,,Alameda CA,CA,OAKLAND,AM,960.0,,5.0,102.1,Talk,,News/Talk,False,iHeart Sports Talk + More 960 KNEW,"IHM LICENSES, LLC",iHeart,,,,,,,,,
+KIQI,San Francisco,,Alameda CA,CA,SAN FRANCISCO,AM,1010.0,,10.0,103.6,Talk,,News/Talk,False,,"MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",,,,,,,,,,
+KTCT,San Francisco,,Alameda CA,CA,SAN MATEO,AM,1050.0,,50.0,97.6,Sports,,Sports,False,KNBR 1050,RADIO LICENSE HOLDING SRC LLC,Cumulus,,,,,,,,,
+KFAX,San Francisco,,Alameda CA,CA,SAN FRANCISCO,AM,1100.0,,50.0,96.6,Talk,,News/Talk,False,AM 1100 K-F-A-X,"NEW INSPIRATION BROADCASTING COMPANY, INC.",,,,,,,,,,
+KLOK,San Francisco,,Santa Clara CA,CA,SAN JOSE,AM,1170.0,,50.0,86.7,Regional Mexican,,Mexican Regional,False,LA TRICOLOR 99.5 - 99.9,"Punjabi American Media, LLC",,,,,,,,,,
+KDOW,San Francisco,,Alameda CA,CA,PALO ALTO,AM,1220.0,,50.0,86.3,News,,News/Talk,False,BUSINESS RADIO,"SCA-PALO ALTO, LLC",,,,,,,,,,
+KSFB,San Francisco,,San Francisco CA,CA,SAN FRANCISCO,AM,1260.0,,5.0,104.9,Religious Teaching,,,False,RELEVANT RADIO,"RELEVANT RADIO, INC.",,,,,,,,,,
+KMKY,San Francisco,,Alameda CA,CA,OAKLAND,AM,1310.0,,5.0,102.4,Ethnic,,,False,RADIO MIRCHI 1310,Radio Punjab AM 1310 Inc.,,,,,,,,,,
+KVTO,San Francisco,,Alameda CA,CA,BERKELEY,AM,1400.0,,1.0,93.3,Ethnic,,,False,VOICE OF THE ORIENT,Pham Radio Communication LLC,,,,,,,,,,
+KEST,San Francisco,,San Francisco CA,CA,SAN FRANCISCO,AM,1450.0,,1.0,102.6,Talk,,News/Talk,False,rhythm and blues,"MULTICULTURAL RADIO BROADCASTING LICENSEE, LLC",,,,,,,,,,
+KSFN,San Francisco,,Alameda CA,CA,SAN RAFAEL,AM,1510.0,,8.0,101.1,Regional Mexican,,Mexican Regional,False,RADIO LAZER,"LAZER LICENSES, LLC",,,,,,,,,,
+KZDG,San Francisco,,San Mateo CA,CA,SAN FRANCISCO,AM,1550.0,,10.0,91.3,Ethnic,,,False,Radio Zindagi,"Factorial Broadcasting, LLC",,,,,,,,,,
+KDIA,San Francisco,,Contra Costa CA,CA,VALLEJO,AM,1640.0,,10.0,97.3,Talk,,News/Talk,False,''1640 KDIA'',"New Inspiration Broadcasting Company, Inc.",,,,,,,,,,
+KQED-FM,San Francisco,6.0,San Mateo CA,CA,SAN FRANCISCO,FM,88.5,B,110.0,92.48,News/Talk,Public News/Talk,News/Talk,True,,KQED Inc.,,9.93,10.0,702100.0,9.3,10.0,10.3,10.2,9.8,10.0
+KPOO,San Francisco,,San Francisco CA,CA,SAN FRANCISCO,FM,89.5,A,0.27,108.18,Variety,,,True,KPOO 89.5 FM,"POOR PEOPLE'S RADIO, INC.",,,,,,,,,,
+KDFC,San Francisco,6.0,Marin CA,CA,SAN FRANCISCO,FM,90.3,B1,1.0,89.82,Classical,Classical,,True,,UNIVERSITY OF SOUTHERN CALIFORNIA,,3.62,3.6,319000.0,3.6,3.8,3.5,3.7,3.5,3.6
+KCSM,San Francisco,6.0,San Mateo CA,CA,SAN MATEO,FM,91.1,B1,11.0,71.56,Jazz,Jazz,,True,JAZZ 91,SAN MATEO COUNTY COMMUNITY COLLEGE DISTRICT,,0.85,0.8,144900.0,0.5,0.7,1.0,1.0,1.1,0.8
+KALW,San Francisco,6.0,San Francisco CA,CA,SAN FRANCISCO,FM,91.7,B1,1.9,102.48,News/Talk,Public News/Talk,News/Talk,True,,SAN FRANCISCO UNIFIED SCHOOL DISTRICT,,0.82,0.6,73700.0,0.9,0.8,1.0,0.9,0.7,0.6
+KEXC,San Francisco,6.0,San Francisco CA,CA,ALAMEDA,FM,92.7,A,0.79,104.16,Adult Alternative,AAA,Alternative,False,KEXP BAY AREA,Friends of KEXP,,0.62,0.6,93400.0,0.4,0.6,0.7,0.7,0.7,0.6
+KRZZ,San Francisco,6.0,Alameda CA,CA,SAN FRANCISCO,FM,93.3,B,50.0,65.0,Regional Mexican,Regional Mexican,Mexican Regional,False,LA RAZA,"KRZZ LICENSING, LLC",,2.67,2.4,321100.0,2.4,2.7,3.0,2.7,2.8,2.4
+KYLD,San Francisco,6.0,San Mateo CA,CA,SAN FRANCISCO,FM,94.9,B,30.0,91.83,Rhythmic CHR,CHR,Contemporary Hit Radio,False,WILD 94-9,iHeartMedia,iHeart,2.9,2.5,604100.0,3.2,3.1,2.8,3.0,2.8,2.5
+KGMZ-FM,San Francisco,6.0,San Mateo CA,CA,SAN FRANCISCO,FM,95.7,B,6.9,94.99,Sports,Sports,Sports,False,95.7 FM THE GAME,"Audacy License, LLC",Audacy,1.77,2.2,244600.0,1.8,1.7,1.6,1.4,1.9,2.2
+KOIT,San Francisco,6.0,San Francisco CA,CA,SAN FRANCISCO,FM,96.5,B,24.0,103.61,Adult Contemporary,AC,Adult Contemporary,False,96.5 KOIT,"Connoisseur Media Licenses, LLC",Connoisseur,5.22,5.8,1020300.0,4.8,5.4,5.0,5.2,5.1,5.8
+KLLC,San Francisco,6.0,Marin CA,CA,SAN FRANCISCO,FM,97.3,B,82.0,90.7,Hot AC,Hot AC,Hot AC,False,ALICE 97-3,"Audacy License, LLC",Audacy,3.8,4.1,776600.0,3.6,3.6,3.5,4.0,4.0,4.1
+KISQ,San Francisco,6.0,Marin CA,CA,SAN FRANCISCO,FM,98.1,B,75.0,90.13,Soft AC,Soft AC,Adult Contemporary,False,98.1 THE BREEZE,iHeartMedia,iHeart,4.88,4.7,766000.0,5.3,4.7,4.6,4.7,5.3,4.7
+KBAY,San Francisco,6.0,Santa Clara CA,CA,SAN JOSE,FM,98.5,B,10.0,57.65,Country,Country,Country,False,98.5 K-FOX,"Connoisseur Media Licenses, LLC",Connoisseur,1.67,2.0,255300.0,1.5,1.4,1.5,1.8,1.8,2.0
+KSOL,San Francisco,6.0,San Francisco CA,CA,SAN FRANCISCO,FM,98.9,B,6.1,102.94,Regional Mexican,Regional Mexican,Mexican Regional,False,QUE BUENA 98.9-99.1,"Univision Radio San Francisco, Inc.",Univision,1.38,1.5,275500.0,1.3,1.3,1.3,1.5,1.4,1.5
+KMVQ-FM,San Francisco,6.0,San Mateo CA,CA,SAN FRANCISCO,FM,99.7,B,40.0,91.43,Contemporary Hit Radio,CHR,Contemporary Hit Radio,False,99.7 NOW,"Connoisseur Media Licenses, LLC",Connoisseur,4.2,4.3,671000.0,4.7,4.1,3.8,4.0,4.3,4.3
+KBRG,San Francisco,6.0,Santa Clara CA,CA,SAN JOSE,FM,100.3,B,14.5,49.64,Spanish Hits,Spanish Adult Hits,Spanish Contemporary,False,AMOR 100.3,"Univision Radio Stations Group, Inc.",Univision,2.17,2.0,304300.0,2.7,2.1,1.8,2.2,2.2,2.0
+KIOI,San Francisco,6.0,San Mateo CA,CA,SAN FRANCISCO,FM,101.3,B,125.0,91.83,Hot AC,Hot AC,Hot AC,False,STAR 101.3 TODAYS BEST MUSIC,iHeartMedia,iHeart,4.08,3.9,716700.0,4.7,4.1,4.2,4.0,3.6,3.9
+KKIQ,San Francisco,6.0,Alameda CA,CA,LIVERMORE,FM,101.7,A,4.1,56.32,Adult Contemporary,Hot AC,Hot AC,False,,Alpha Media Licensee LLC,Connoisseur,0.55,0.5,,0.3,0.5,0.7,0.7,0.6,0.5
+KRBQ,San Francisco,6.0,Marin CA,CA,SAN FRANCISCO,FM,102.1,B,33.0,89.78,Classic Hip-Hop,Classic Hip Hop,Urban Contemporary,False,102 JAMS,"Audacy License, LLC",Audacy,1.58,1.4,357900.0,1.5,1.7,1.7,1.7,1.5,1.4
+KWVF,San Francisco,6.0,Sonoma CA,CA,GUERNEVILLE,FM,102.7,A,1.6,51.11,Classic Hits,Classic Hits,Classic Hits,False,102.7 THE WOLF,"Amaturo Sonoma Media Group, LLC",,0.55,0.7,62300.0,0.5,0.6,0.6,0.5,0.4,0.7
+KBLX-FM,San Francisco,6.0,San Mateo CA,CA,BERKELEY,FM,102.9,B,7.2,94.53,Urban AC,Adult R&B,Urban AC,False,THE QUIET STORM,"Connoisseur Media Licenses, LLC",Connoisseur,1.73,1.6,339700.0,1.8,2.0,1.8,1.8,1.4,1.6
+KOSF,San Francisco,6.0,San Mateo CA,CA,SAN FRANCISCO,FM,103.7,B,6.4,92.07,80'S Hits,Classic Hits,Classic Hits,False,CLASSIC HITS 103.7,iHeartMedia,iHeart,2.55,2.4,563900.0,2.5,2.7,2.3,2.9,2.5,2.4
+KNBR-FM,San Francisco,,San Francisco CA,CA,SAN FRANCISCO,FM,104.5,B,7.1,103.04,Sports,,Sports,False,KNBR 680 104.5 THE SPORTS LEADER,Cumulus Media,Cumulus,,,,,,,,,
+KITS,San Francisco,6.0,San Mateo CA,CA,SAN FRANCISCO,FM,105.3,B,15.0,90.26,Rock,Alternative,Alternative,False,LIVE 105,"Audacy License, LLC",Audacy,2.85,2.9,549300.0,3.0,2.9,3.0,2.9,2.4,2.9
+KVVF,San Francisco,6.0,Santa Clara CA,CA,SANTA CLARA,FM,105.7,B,50.0,48.77,Urban Contemporary,Rhythmic CHR,Rhythmic CHR,False,LATINO MIX 105.7 & 100.7,"Univision Radio Stations Group, Inc.",Univision,0.92,1.0,181600.0,1.0,0.8,0.9,0.8,1.0,1.0
+KMEL,San Francisco,6.0,San Mateo CA,CA,SAN FRANCISCO,FM,106.1,B,69.0,93.66,Urban Contemporary,Rhythmic CHR,Rhythmic CHR,False,#1 FOR HIP HOP & R&B,iHeartMedia,iHeart,1.75,2.3,539500.0,1.6,1.3,1.5,1.6,2.2,2.3
+KEZR,San Francisco,6.0,Santa Clara CA,CA,SAN JOSE,FM,106.5,B,42.0,48.94,Hot AC,Hot AC,Hot AC,False,MIX 106-5,ALPHA MEDIA LICENSEE LLC,Connoisseur,1.37,1.4,324000.0,1.3,1.2,1.3,1.4,1.6,1.4
+KFRC-FM,San Francisco,,Marin CA,CA,SAN FRANCISCO,FM,106.9,B,80.0,90.32,News,,News/Talk,False,KCBS 740 AM,"Audacy License, LLC",Audacy,,,,,,,,,
+KLVS,San Francisco,6.0,Contra Costa CA,CA,LIVERMORE,FM,107.3,B,4.1,66.87,Contemporary Christian,Christian AC,Contemporary Christian,True,K-LOVE,"K-LOVE, Inc.",EMF,1.33,0.8,141200.0,1.8,1.5,1.2,1.2,1.5,0.8
+KSAN,San Francisco,,San Mateo CA,CA,SAN MATEO,FM,107.7,B,8.9,90.03,Classic Rock,,Classic Rock,False,THE BONE,Cumulus Media,Cumulus,,,,,,,,,
